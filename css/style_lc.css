@@ -6,3 +6,8 @@
 h1, h2 {
     font-family: 'Times New Roman';
 }
+
+.menu a,.links{
+    font-weight: bold;
+    color: #000;
+}
