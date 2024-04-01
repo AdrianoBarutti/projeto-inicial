@@ -30,3 +30,6 @@ p {
     color: white;
 
 }
+.rodape {
+    border-top: 2px solid red;
+}
