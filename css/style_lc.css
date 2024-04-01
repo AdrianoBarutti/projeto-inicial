@@ -17,7 +17,10 @@ h1, h2 {
 .conteudo {
     line-height: 1.5;
 }
-.tit-sec{
+.ctn{
     border: 1px solid gray;
     padding: 10px;
+}
+p {
+    color: green;
 }
